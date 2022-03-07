@@ -1,6 +1,6 @@
 # Smoothed Gradient Descent-Ascent - PyTorch
 
-- This repository contains an implementation of the algorithm presented in the paper ["A Single-Loop Smoothed Gradient Descent-Ascent Algorithm for Nonconvex-Concave Min-Max Problems"](https://arxiv.org/abs/2010.15768)
+- This repository contains an implementation of the algorithm presented in the paper ["A Single-Loop Smoothed Gradient Descent-Ascent Algorithm for Nonconvex-Concave Min-Max Problems"](https://arxiv.org/abs/2010.15768) (NeurIPS 2020)
 
 - This repository applies the algorithm to a Vanilla GAN on MNIST dataset.
 - The algorithm roughly translates to using:
